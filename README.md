@@ -135,14 +135,14 @@ Example configuration:
 # ~/.taskman.yaml
 verbose: true
 default_priority: medium
-date_format: "Jan 02, 2006"
+date_format: "01/01/2006 15:04"
 ```
 
 ## Development
 
 ### Prerequisites
 
-- Go 1.21 or later
+- Go 1.24 or later
 - Make (optional, for convenience)
 
 ### Building
@@ -269,3 +269,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Viper](https://github.com/spf13/viper) - Configuration management
 - [Color](https://github.com/fatih/color) - Terminal colors
 - [TableWriter](https://github.com/olekukonko/tablewriter) - ASCII tables
+
+## Contact
+For questions, suggestions, or contributions, please open an issue on GitHub or contact me at https://vkhangstack.io.vn
